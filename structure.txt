@@ -1,0 +1,25 @@
+Features:
+Add new events
+View all events
+Search events by name or location
+Update event details
+Manage guest counts
+Track event budgets and expenses
+Change event status
+Delete events
+View event statistics
+
+Project Structure:
+Personal_Event_Planner/
+│
+├── main.py
+├── event_manager.py
+├── storage.py
+├── utils.py
+├── config.py
+├── requirements.txt
+├── .gitignore
+├── README.md
+│
+└── data/
+    └── events.json
